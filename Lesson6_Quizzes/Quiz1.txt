@@ -8,6 +8,7 @@ Questions:
 
 1.  What statement would you use to create a variable name "logo" and assign as its value a reference to the element with the "id" value "logoImage"?
 
+var logo = document.getElementById("logoImage"); 
 
 
 

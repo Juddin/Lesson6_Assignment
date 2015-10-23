@@ -8,8 +8,16 @@ Questions:
 
 1.  Name two methods you can use to add a node to the DOM tree, and explain the difference between them.
 
+you can use the cloneNode() method of the Document object to duplicate an existing node. The cloneNode() method has the following syntax:
+
+existingNode.cloneNode(true | fase)
 
 
 
-
-2.  List the six main objects that make up the browser object model. 
+2.  List the six main objects that make up the browser object model
+  -frames
+  -history
+  -screen
+  -document
+  -location
+  -navigator
